@@ -30,4 +30,4 @@ CREATE TABLE `usuario` (
 	$sql_pass = '*****';  //contraseña de acceso
 
 ## Preguntas y Crítiicas
-[autor del Script](http://miscapu.blogspot.com). Descarga SourceForge: <a href="https://sourceforge.net/projects/systemregphp/files/latest/download" rel="nofollow"><img alt="Download SystemRegPHP" src="https://a.fsdn.com/con/app/sf-download-button" /></a>
+[autor del Script](http://miscapu.blogspot.com).  <a href="https://sourceforge.net/projects/systemregphp/files/latest/download" rel="nofollow"><img alt="Download SystemRegPHP" src="https://a.fsdn.com/con/app/sf-download-button" /></a>
