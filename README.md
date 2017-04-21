@@ -29,5 +29,5 @@ CREATE TABLE `usuario` (
 	$sql_user = 'root'; //nombre del usuario que puede acceder al gestor de base de datos MySQL
 	$sql_pass = '*****';  //contraseña de acceso
 
-## Preguntas y Crítiicas
+## Preguntas y Críticas
 Author: [MiSCapu](http://miscapu.blogspot.com).  <a href="https://sourceforge.net/projects/systemregphp/files/latest/download" rel="nofollow"><img alt="Download SystemRegPHP" src="https://a.fsdn.com/con/app/sf-download-button" /></a>
